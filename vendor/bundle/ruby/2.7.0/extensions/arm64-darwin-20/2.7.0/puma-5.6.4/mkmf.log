@@ -296,7 +296,7 @@ checked program was:
 "clang -o conftest -I/Users/yuka/.rbenv/versions/2.7.5/include/ruby-2.7.0/arm64-darwin20 -I/Users/yuka/.rbenv/versions/2.7.5/include/ruby-2.7.0/ruby/backward -I/Users/yuka/.rbenv/versions/2.7.5/include/ruby-2.7.0 -I. -I/Users/yuka/.rbenv/versions/2.7.5/openssl/include -I/Users/yuka/.rbenv/versions/2.7.5/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -fno-common -pipe conftest.c  -L. -L/Users/yuka/.rbenv/versions/2.7.5/lib -L/Users/yuka/.rbenv/versions/2.7.5/openssl/lib -L. -L/Users/yuka/.rbenv/versions/2.7.5/lib  -fstack-protector-strong  -m64  -lssl -lcrypto  -lruby.2.7 -lssl -lcrypto   "
 Undefined symbols for architecture arm64:
   "_SSL_get1_peer_certificate", referenced from:
-      _t in conftest-86b35c.o
+      _t in conftest-a9a17d.o
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:

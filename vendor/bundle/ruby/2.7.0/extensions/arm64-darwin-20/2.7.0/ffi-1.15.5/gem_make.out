@@ -1,5 +1,5 @@
-current directory: /Users/yuka/Desktop/Booking_app/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/ext/ffi_c
-/Users/yuka/.rbenv/versions/2.7.5/bin/ruby -I /Users/yuka/.rbenv/versions/2.7.5/lib/ruby/2.7.0 -r ./siteconf20220604-942-158f0ft.rb extconf.rb
+current directory: /Users/yuka/Desktop/potepan-camp-rails/booking_app/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/ext/ffi_c
+/Users/yuka/.rbenv/versions/2.7.5/bin/ruby -I /Users/yuka/.rbenv/versions/2.7.5/lib/ruby/2.7.0 -r ./siteconf20220411-6358-1xq6i3t.rb extconf.rb
 checking for ffi_prep_closure_loc() in -lffi... yes
 checking for ffi_prep_cif_var()... yes
 checking for ffi_raw_call()... yes
@@ -8,10 +8,10 @@ checking for whether -pthread is accepted as LDFLAGS... yes
 creating extconf.h
 creating Makefile
 
-current directory: /Users/yuka/Desktop/Booking_app/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/ext/ffi_c
+current directory: /Users/yuka/Desktop/potepan-camp-rails/booking_app/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/ext/ffi_c
 make "DESTDIR=" clean
 
-current directory: /Users/yuka/Desktop/Booking_app/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/ext/ffi_c
+current directory: /Users/yuka/Desktop/potepan-camp-rails/booking_app/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/ext/ffi_c
 make "DESTDIR="
 compiling AbstractMemory.c
 compiling ArrayType.c
@@ -38,6 +38,6 @@ compiling Variadic.c
 compiling ffi.c
 linking shared-object ffi_c.bundle
 
-current directory: /Users/yuka/Desktop/Booking_app/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/ext/ffi_c
+current directory: /Users/yuka/Desktop/potepan-camp-rails/booking_app/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/ext/ffi_c
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20220604-942-cp6ulq
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20220411-6358-134pvj5

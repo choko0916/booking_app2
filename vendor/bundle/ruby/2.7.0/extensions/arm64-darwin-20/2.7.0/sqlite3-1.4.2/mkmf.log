@@ -389,7 +389,7 @@ checked program was:
 ld: warning: directory not found for option '-L/opt/homebrew/opt/sqlite/lib'
 Undefined symbols for architecture arm64:
   "_sqlite3_enable_load_extension", referenced from:
-      _t in conftest-44275d.o
+      _t in conftest-6e23b9.o
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -442,7 +442,7 @@ checked program was:
 ld: warning: directory not found for option '-L/opt/homebrew/opt/sqlite/lib'
 Undefined symbols for architecture arm64:
   "_sqlite3_load_extension", referenced from:
-      _t in conftest-8a875a.o
+      _t in conftest-d15d53.o
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:

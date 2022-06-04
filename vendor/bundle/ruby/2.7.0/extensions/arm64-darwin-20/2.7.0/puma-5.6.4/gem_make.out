@@ -1,5 +1,5 @@
-current directory: /Users/yuka/Desktop/Booking_app/vendor/bundle/ruby/2.7.0/gems/puma-5.6.4/ext/puma_http11
-/Users/yuka/.rbenv/versions/2.7.5/bin/ruby -I /Users/yuka/.rbenv/versions/2.7.5/lib/ruby/2.7.0 -r ./siteconf20220604-942-1j512ox.rb extconf.rb
+current directory: /Users/yuka/Desktop/potepan-camp-rails/booking_app/vendor/bundle/ruby/2.7.0/gems/puma-5.6.4/ext/puma_http11
+/Users/yuka/.rbenv/versions/2.7.5/bin/ruby -I /Users/yuka/.rbenv/versions/2.7.5/lib/ruby/2.7.0 -r ./siteconf20220411-6358-e3jqd5.rb extconf.rb
 checking for BIO_read() in -lcrypto... yes
 checking for SSL_CTX_new() in -lssl... yes
 checking for openssl/bio.h... yes
@@ -12,16 +12,16 @@ checking for SSL_get1_peer_certificate() in openssl/ssl.h... no
 checking for Random.bytes... yes
 creating Makefile
 
-current directory: /Users/yuka/Desktop/Booking_app/vendor/bundle/ruby/2.7.0/gems/puma-5.6.4/ext/puma_http11
+current directory: /Users/yuka/Desktop/potepan-camp-rails/booking_app/vendor/bundle/ruby/2.7.0/gems/puma-5.6.4/ext/puma_http11
 make "DESTDIR=" clean
 
-current directory: /Users/yuka/Desktop/Booking_app/vendor/bundle/ruby/2.7.0/gems/puma-5.6.4/ext/puma_http11
+current directory: /Users/yuka/Desktop/potepan-camp-rails/booking_app/vendor/bundle/ruby/2.7.0/gems/puma-5.6.4/ext/puma_http11
 make "DESTDIR="
 compiling http11_parser.c
 compiling mini_ssl.c
 compiling puma_http11.c
 linking shared-object puma/puma_http11.bundle
 
-current directory: /Users/yuka/Desktop/Booking_app/vendor/bundle/ruby/2.7.0/gems/puma-5.6.4/ext/puma_http11
+current directory: /Users/yuka/Desktop/potepan-camp-rails/booking_app/vendor/bundle/ruby/2.7.0/gems/puma-5.6.4/ext/puma_http11
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 puma_http11.bundle ./.gem.20220604-942-aql0ig/puma
+/usr/bin/install -c -m 0755 puma_http11.bundle ./.gem.20220411-6358-1j7zjpn/puma
