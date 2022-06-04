@@ -1,11 +1,11 @@
-current directory: /Users/yuka/Desktop/Booking_app/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
-/Users/yuka/.rbenv/versions/2.7.5/bin/ruby -I /Users/yuka/.rbenv/versions/2.7.5/lib/ruby/2.7.0 -r ./siteconf20220604-942-1rzpro1.rb extconf.rb
+current directory: /Users/yuka/Desktop/potepan-camp-rails/booking_app/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
+/Users/yuka/.rbenv/versions/2.7.5/bin/ruby -I /Users/yuka/.rbenv/versions/2.7.5/lib/ruby/2.7.0 -r ./siteconf20220411-6358-e3c9tv.rb extconf.rb
 creating Makefile
 
-current directory: /Users/yuka/Desktop/Booking_app/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
+current directory: /Users/yuka/Desktop/potepan-camp-rails/booking_app/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
 make "DESTDIR=" clean
 
-current directory: /Users/yuka/Desktop/Booking_app/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
+current directory: /Users/yuka/Desktop/potepan-camp-rails/booking_app/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
 make "DESTDIR="
 compiling ./libsass/src/ast.cpp
 compiling ./libsass/src/ast2c.cpp
@@ -75,6 +75,6 @@ compiling ./libsass/src/util_string.cpp
 compiling ./libsass/src/values.cpp
 linking shared-object sassc/libsass.bundle
 
-current directory: /Users/yuka/Desktop/Booking_app/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
+current directory: /Users/yuka/Desktop/potepan-camp-rails/booking_app/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 libsass.bundle ./.gem.20220604-942-8owl9j/sassc
+/usr/bin/install -c -m 0755 libsass.bundle ./.gem.20220411-6358-gj6dla/sassc
